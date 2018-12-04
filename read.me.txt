@@ -1,0 +1,9 @@
+# NTI-Project-
+-Before you Run the code make sure you are connected to the internet as the data is downloaded every time you run the code
+and make sure that you installed all the needed packages
+ 
+install.packages("quantmod")
+install.packages("tseries")
+install.packages("timeSeries")
+install.packages("forecast")
+install.packages("xts")
